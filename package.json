@@ -1,0 +1,22 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Hello World",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaphaelVRossi/hello-world-js.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "RaphaelRossi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaphaelVRossi/hello-world-js/issues"
+  },
+  "homepage": "https://github.com/RaphaelVRossi/hello-world-js#readme"
+}
