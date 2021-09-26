@@ -1,0 +1,8 @@
+{
+  "name": "Hello world JS",
+  "description": "AAAAA",
+  "repository": "https://github.com/RaphaelVRossi/hello-world-js.git",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/main/public/node.svg",
+  "keywords": ["node", "heroku"],
+  "image": "heroku/nodejs"
+}
